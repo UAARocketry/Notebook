@@ -7,3 +7,10 @@ https://www.nar.org/high-power-rocketry-info/level-1-hpr-certification-procedure
 
 
 (UAA Rocketry Image)[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYCW3aB7sYIeqMHskvMrYt9-mMfTMXTu0S0A&s]
+
+
+
+UAA Posting Policy:
+https://catalog.uaa.alaska.edu/handbook/student-freedoms-rights-and-responsibilities/posting-policy/posting-policy.pdf
+https://www.uaa.alaska.edu/about/administrative-services/departments/facilities-campus-services/_documents/Anchorage%20Campus%20posting%20rules%20and%20procedures.pdf
+

@@ -78,3 +78,11 @@ Funding:
 - sponsorships
 
 - hackathon - also for awarness / recruitment
+
+
+Lectures:
+- mini-series
+    - intro to high powered rocketry
+- using openrocket
+- solid fuel formulation
+- saftey / redundency
