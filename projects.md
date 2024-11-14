@@ -1,0 +1,5 @@
+- L certs / init
+- Thrust Vector Control System
+- Fin based control system 
+- Develop solid fuel motor manufacturing processes 
+- Design and build a laucnh vehicile for our LOX engine

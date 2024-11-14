@@ -4,7 +4,7 @@ Phase 1 | Fundimentals & Saftey
 - Design, test, and launch static rockets to acheive L1-L3 certs
 - get up to 1,500
 - 3d printed, cardboard tubes, basic fins/body. stock supplies
-rocket names:
+Rocket names:
 L1 - HA
 L2 - LOL
 L3 - LMAO
@@ -78,37 +78,3 @@ Funding:
 - sponsorships
 
 - hackathon - also for awarness / recruitment
-
-
-
-Mission:
-"To advance our understanding of rocket and aviation technologies in the State of Alaska."
-
-
-
-
-
-
-
----
-
-
-rocket kits 
-lol 
-- 15ft
-
-
-
-https://www.rocketryforum.com/threads/anti-zipper-idea.163543/
-https://www.reddit.com/r/rocketry/comments/15fqxr4/where_to_get_h_or_i_motors/
-
-https://www.nar.org/high-power-rocketry-info/level-1-hpr-certification-procedures/
-
-
-Use for charting in OpenRocket:
-https://github.com/timqian/chart.xkcd
-
-
-
-
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYCW3aB7sYIeqMHskvMrYt9-mMfTMXTu0S0A&s
