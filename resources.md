@@ -8,6 +8,7 @@ https://www.nar.org/high-power-rocketry-info/level-1-hpr-certification-procedure
 
 (UAA Rocketry Image)[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYCW3aB7sYIeqMHskvMrYt9-mMfTMXTu0S0A&s]
 
+(design precentation)[https://slideplayer.com/slide/4625251/]
 
 
 UAA Posting Policy:
